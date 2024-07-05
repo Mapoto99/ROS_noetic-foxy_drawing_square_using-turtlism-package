@@ -42,7 +42,8 @@ CTRL + C
   ```
   source /opt/ros/foxy/setup.bash
   ```
-then to start please follow:
+then to start please follow in separate terminals:
+
 1-
 ```
 ros2 core
