@@ -27,3 +27,32 @@ and to quit the loop press this on the key board and the turtle will stop drawin
 ```
 CTRL + C
 ```
+## Drawing a square using turtlesim package in ROS foxy:
+### *To switch between ROS noetic and foxy do the following:*
+  1- run this:
+```
+  gedit ~/.bashrc
+  ```
+  it will display another window
+  go to the most bottom and you will find:
+  ```
+  source /opt/ros/noetic/setup.bash
+  ```
+  change it to:
+  ```
+  source /opt/ros/foxy/setup.bash
+  ```
+then to start please follow:
+1-
+```
+ros2 core
+```
+2-
+```
+ros2 run turtlesim turtlesim_node
+```
+3-
+```
+ros2 run turtlesim draw_square
+```
+# Thank you
