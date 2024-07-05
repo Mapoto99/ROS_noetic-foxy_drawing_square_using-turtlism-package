@@ -8,6 +8,7 @@ sudo apt install ros-noetic-turtlesim
 2- close the window, and open three terminals in the same window by clicking on this button on the top left of the terminal window
 
 ![Screenshot from 2024-07-05 14-47-12](https://github.com/Mapoto99/ROS_noetic-foxy_drawing_square_using-turtlism-package/assets/174211031/7621e899-6cd0-48ed-aeb4-5a6076c550db)
+
 3- In the first  window type:
 ```
 roscore
